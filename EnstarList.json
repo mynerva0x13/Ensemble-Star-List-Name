@@ -1,0 +1,358 @@
+[
+  {
+    "AgencyID": 0,
+    "name": "STARMAKER PRODUCTION",
+    "units": [
+      {
+        "unitID": 0,
+        "unitName": "Fines",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Eichi Tenshouin"
+          },
+          {
+            "memberID": 2,
+            "name": "Wataru Hibiki"
+          },
+          {
+            "memberID": 3,
+            "name": "Tori Himemiya"
+          },
+          {
+            "memberID": 4,
+            "name": "Yuzuru Fushimi"
+          }
+        ]
+      },
+      {
+        "unitID": 1,
+        "unitName": "Trickstar",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Hokuto Hidaka"
+          },
+          {
+            "memberID": 2,
+            "name": "Subaru Akehoshi"
+          },
+          {
+            "memberID": 3,
+            "name": "Makoto Yuuki"
+          },
+          {
+            "memberID": 4,
+            "name": "Mao Isara"
+          }
+        ]
+      },
+      {
+        "unitID": 2,
+        "unitName": "Ryusentai",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Chiaki Morisawa"
+          },
+          {
+            "memberID": 2,
+            "name": "Kanata Shinkai"
+          },
+          {
+            "memberID": 3,
+            "name": "Tetora Nagumo"
+          },
+          {
+            "memberID": 4,
+            "name": "Midori Takamine"
+          },
+          {
+            "memberID": 5,
+            "name": "Shinobu Sengoku"
+          }
+        ]
+      },
+      {
+        "unitID": 3,
+        "unitName": "Alkaloids",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Hiiro Amagi"
+          },
+          {
+            "memberID": 2,
+            "name": "Aira Shiratori"
+          },
+          {
+            "memberID": 3,
+            "name": "Mayoi Ayase"
+          },
+          {
+            "memberID": 4,
+            "name": "Tatsumi Kazehaya"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AgencyID": 1,
+    "name": "COSMIC PRODUCTION",
+    "units": [
+      {
+        "unitID": 0,
+        "unitName": "Eden",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Nagisa Ran"
+          },
+          {
+            "memberID": 2,
+            "name": "Hiyori Tomoe"
+          },
+          {
+            "memberID": 3,
+            "name": "Ibara Saegusa"
+          },
+          {
+            "memberID": 4,
+            "name": "Jun Sazanami"
+          }
+        ]
+      },
+      {
+        "unitID": 1,
+        "unitName": "Valkryie",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Shu Itsuki"
+          },
+          {
+            "memberID": 2,
+            "name": "Mika Kagehira"
+          }
+        ]
+      },
+      {
+        "unitID": 2,
+        "unitName": "2winks",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Hinata Aoi"
+          },
+          {
+            "memberID": 2,
+            "name": "Yuta Aoi"
+          }
+        ]
+      },
+      {
+        "unitID": 3,
+        "unitName": "Crazy:B",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Rinne Amagi"
+          },
+          {
+            "memberID": 2,
+            "name": "HiMERU"
+          },
+          {
+            "memberID": 3,
+            "name": "Kohaku Oukawa"
+          },
+          {
+            "memberID": 4,
+            "name": "Niki Shiina"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AgencyID": 2,
+    "name": "Rhythm Link",
+    "units": [
+      {
+        "unitID": 0,
+        "unitName": "Undead",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Rei Sakuma"
+          },
+          {
+            "memberID": 2,
+            "name": "Kaoru Hakaze"
+          },
+          {
+            "memberID": 3,
+            "name": "Koga Oogami"
+          },
+          {
+            "memberID": 4,
+            "name": "Adonis Otogari"
+          }
+        ]
+      },
+      {
+        "unitID": 1,
+        "unitName": "Ra*bits",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Tomoya Mashiro"
+          },
+          {
+            "memberID": 2,
+            "name": "Nazuna Nito"
+          },
+          {
+            "memberID": 3,
+            "name": "Mitsuru Tenma"
+          },
+          {
+            "memberID": 4,
+            "name": "Hajime Shino"
+          }
+        ]
+      },
+      {
+        "unitID": 2,
+        "unitName": "Akatsuki",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Keito Hasumi"
+          },
+          {
+            "memberID": 2,
+            "name": "Kuro Kiryu"
+          },
+          {
+            "memberID": 3,
+            "name": "Souma Kanzaki"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AgencyID": 3,
+    "name": "NEW DIMENSION",
+    "units": [
+      {
+        "unitID": 0,
+        "unitName": "Knights",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Tsukasa Suou"
+          },
+          {
+            "memberID": 2,
+            "name": "Leo Tsukinaga"
+          },
+          {
+            "memberID": 3,
+            "name": "Izumi Sena"
+          },
+          {
+            "memberID": 4,
+            "name": "Ritsu Sakuma"
+          },
+          {
+            "memberID": 5,
+            "name": "Arashi Narukami"
+          }
+        ]
+      },
+      {
+        "unitID": 1,
+        "unitName": "Switch",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Natsume Sakasaki"
+          },
+          {
+            "memberID": 2,
+            "name": "Tsumugi Aoba"
+          },
+          {
+            "memberID": 3,
+            "name": "Sora Harukawa"
+          }
+        ]
+      },
+      {
+        "unitID": 2,
+        "unitName": "MaM",
+        "members": [
+          {
+            "memberID": 1,
+            "name": "Madara Mikejima"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AgencyID": 4,
+    "name": "THUNDERBOLT CHALLENGE",
+    "units": [
+      {
+        "memberID": 3,
+        "name": "Esu Sagiri/Gallery"
+      },
+      {
+        "memberID": 6,
+        "name": "Ibuki Taki/Gallery"
+      },
+      {
+        "memberID": 7,
+        "name": "Kanna Natsu/Gallery"
+      },
+      {
+        "memberID": 8,
+        "name": "Fuyume Hanamura/Gallery"
+      },
+      {
+        "memberID": 9,
+        "name": "Raika Hojo/Gallery"
+      },
+      {
+        "memberID": 10,
+        "name": "Nice Arneb Thunder/Gallery"
+      }
+    ]
+  },
+  {
+    "AgencyID": 5,
+    "name": "Other Characters",
+    "units": [
+      {
+        "memberID": 3,
+        "name": "Jin Sagami/Gallery"
+      },
+      {
+        "memberID": 5,
+        "name": "Akiomi Kunugi/Gallery"
+      },
+      {
+        "memberID": 6,
+        "name": "Seiya Hidaka/Gallery"
+      },
+      {
+        "memberID": 7,
+        "name": "Anzu/Gallery"
+      }
+    ]
+  }
+]
