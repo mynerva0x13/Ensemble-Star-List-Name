@@ -2,7 +2,7 @@
 
 ## Overview
 
-This JSON file provides a structured list of agencies from the **Ensemble Stars** universe, including the units (groups) within each agency and the members of those units. It is designed for a small project use case, simplifying the organization and retrieval of character information based on their assigned unit and agency.
+This JSON file provides a structured list of agencies from the **Ensemble Stars**, including the units (groups) within each agency and the members of those units. It is designed for a small project use case, simplifying the organization and retrieval of character information based on their assigned unit and agency.
 
 ## JSON Structure
 
